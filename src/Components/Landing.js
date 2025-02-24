@@ -20,7 +20,7 @@ export default function Landing() {
 
     const logoin=[
           {url:'https://linktr.ee/faizan.akram' ,icon: <SiLinktree  size={20} color="#494949" /> , name:"linkTree"},
-         {url:'https://github.com/faizan-blip' ,icon: <AiOutlineGithub size={20} color="#494949"/> , name:"Github"},
+         {url:'https://github.com/faiz-ak' ,icon: <AiOutlineGithub size={20} color="#494949"/> , name:"Github"},
         {url:'https://www.instagram.com/f_.a_.i_.z_.a_.n/' ,icon:    <AiOutlineInstagram  size={20} color="#494949" /> , name:"Instagram"},
           {url:'https://www.linkedin.com/in/faizan-akram-3a5a12247/' ,icon:    <AiOutlineLinkedin size={20} color="#494949"  /> , name:"Linkedin"}
     ]
